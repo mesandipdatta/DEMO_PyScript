@@ -3,7 +3,7 @@
 
 
 <a href="https://mesandipdatta.github.io/DEMO_PyScript/" target="_blank">
-https://mesandipdatta.github.io/DEMO_PyScript/
+mesandipdatta.github.io/DEMO_PyScript/
 </a>
 
 PyScript is a platform for running Python in modern web browsers.
