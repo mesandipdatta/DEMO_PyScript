@@ -6,3 +6,7 @@ body {
 .block1 {
   margin-left: 40%; 
 }
+
+.block1 #output {
+  background-colour: blue;
+}
