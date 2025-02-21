@@ -11,10 +11,16 @@
   <body>
     <div class="block1"> 
         <h1>Polyglot  💬 🏴‍☠️</h1>
+        
         <p> <h2> Translate English into Pirate speak... </h2> </p>
-        <h2> <input type="text" id="english" placeholder="Type English here..." /> </h2> 
-        <button py-click="translate_english">  <h3> Translate to Pirate Lang </h3>     </button>
-        <h2> <div id="output" style="background-color:blue;">  </div> </h2>
+        
+        <h2> <input type="text" id="english" placeholder="Type English here..." style="font-size: 18px;" /> </h2> 
+        
+        <button py-click="translate_english" style="background-color:royalblue;">  
+          <h3> Translate to Pirate Lang </h3>     
+        </button>
+        
+        <h2> <div id="output" style="color:gold;">  </div> </h2>
     </div>
     <script type="py" src="./main.py" config="./pyscript.json"></script>
   </body>
